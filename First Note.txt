@@ -1,5 +1,7 @@
 // Added by Arnold [2022-08-24]
 // Modified by Arnold [2022-08-24 16:32]
+// Modified by Arnold [2022-08-24 17:31]
 Hello, World~
-This is my Test for GIT.
+This is my Test for GIT Tutorial.
+
 
