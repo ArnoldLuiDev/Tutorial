@@ -1,7 +1,8 @@
 // Added by Arnold [2022-08-24]
 // Modified by Arnold [2022-08-24 16:32]
 // Modified by Arnold [2022-08-24 17:31]
+// Modified by Arnold [2022-08-26 11:37]
 Hello, World~
 This is my Test for GIT Tutorial.
-
+This line is added in GitHub directly.
 
