@@ -5,5 +5,3 @@
 Hello, World~
 This is my Test for GIT Tutorial.
 Added this line in 29/08.
-
-
